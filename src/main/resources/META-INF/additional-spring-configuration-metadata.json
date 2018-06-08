@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.druid.filters",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.druid.filters."
+    },
+    {
+      "name": "spring.datasource.druid.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.druid.driver-class-name."
+    },
+    {
+      "name": "pagehelper.returnPageInfo",
+      "type": "java.lang.String",
+      "description": "Description for pagehelper.returnPageInfo."
+    }
+  ]
+}
